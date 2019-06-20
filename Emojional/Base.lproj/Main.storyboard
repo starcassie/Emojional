@@ -72,7 +72,7 @@
                                 <rect key="frame" x="170" y="339" width="75" height="96"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="70"/>
-                                <state key="normal" title="😫"/>
+                                <state key="normal" title="🤰🏽"/>
                                 <connections>
                                     <action selector="showMessageWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Xx6-dg-xrO"/>
                                 </connections>
